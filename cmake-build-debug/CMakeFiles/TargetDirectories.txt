@@ -1,0 +1,14 @@
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/capital_indexes.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/middle_letter.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/online_status.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/randomness.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/type_check.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/double_letters.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/adding_removing_dots.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/counting_syllables.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/anagrams.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/flatten_a_list.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/min_maxing.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/divisible_by_3.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

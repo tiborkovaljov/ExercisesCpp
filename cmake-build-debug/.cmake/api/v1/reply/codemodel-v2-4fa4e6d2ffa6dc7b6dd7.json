@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cpp_principles",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "adding_removing_dots::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-adding_removing_dots-Debug-602a57a44b2cfd4b5f96.json",
+					"name" : "adding_removing_dots",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "anagrams::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-anagrams-Debug-282b4239a0de2f72e9ba.json",
+					"name" : "anagrams",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "capital_indexes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-capital_indexes-Debug-da0a40adfb30dc0f2357.json",
+					"name" : "capital_indexes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "counting_syllables::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-counting_syllables-Debug-3c0a54ceb4c00cc3a26a.json",
+					"name" : "counting_syllables",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "divisible_by_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-divisible_by_3-Debug-1b2b69653078015dccc0.json",
+					"name" : "divisible_by_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "double_letters::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-double_letters-Debug-b2478ab7cddda2da449a.json",
+					"name" : "double_letters",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flatten_a_list::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flatten_a_list-Debug-38fbc7d804da1bbb0e16.json",
+					"name" : "flatten_a_list",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "middle_letter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-middle_letter-Debug-f6b0c897d73c1b0b930a.json",
+					"name" : "middle_letter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "min_maxing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-min_maxing-Debug-6e2c83373d1c3cbb4fa5.json",
+					"name" : "min_maxing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "online_status::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-online_status-Debug-b54a542af0476ae13181.json",
+					"name" : "online_status",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "randomness::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-randomness-Debug-ae52c0066adca0aa0882.json",
+					"name" : "randomness",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "type_check::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-type_check-Debug-74e949fd934cdf4bbf28.json",
+					"name" : "type_check",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug",
+		"source" : "C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
