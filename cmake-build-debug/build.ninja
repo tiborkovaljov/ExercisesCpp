@@ -49,13 +49,11 @@ cmake_ninja_workdir = C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/c
 
 build cmake_object_order_depends_target_capital_indexes: phony || CMakeFiles/capital_indexes.dir
 
-build CMakeFiles/capital_indexes.dir/Easy/CapitalIndexes.cpp.obj: CXX_COMPILER__capital_indexes_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/Easy/CapitalIndexes.cpp || cmake_object_order_depends_target_capital_indexes
-  DEP_FILE = CMakeFiles\capital_indexes.dir\Easy\CapitalIndexes.cpp.obj.d
+build CMakeFiles/capital_indexes.dir/2-10/CapitalIndexes.cpp.obj: CXX_COMPILER__capital_indexes_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/2-10/CapitalIndexes.cpp || cmake_object_order_depends_target_capital_indexes
+  DEP_FILE = CMakeFiles\capital_indexes.dir\2-10\CapitalIndexes.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\capital_indexes.dir
-  OBJECT_FILE_DIR = CMakeFiles\capital_indexes.dir\Easy
-  TARGET_COMPILE_PDB = CMakeFiles\capital_indexes.dir\
-  TARGET_PDB = capital_indexes.pdb
+  OBJECT_FILE_DIR = CMakeFiles\capital_indexes.dir\2-10
 
 
 # =============================================================================
@@ -65,16 +63,15 @@ build CMakeFiles/capital_indexes.dir/Easy/CapitalIndexes.cpp.obj: CXX_COMPILER__
 #############################################
 # Link the executable capital_indexes.exe
 
-build capital_indexes.exe: CXX_EXECUTABLE_LINKER__capital_indexes_Debug CMakeFiles/capital_indexes.dir/Easy/CapitalIndexes.cpp.obj
+build capital_indexes.exe: CXX_EXECUTABLE_LINKER__capital_indexes_Debug CMakeFiles/capital_indexes.dir/2-10/CapitalIndexes.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\capital_indexes.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\capital_indexes.dir\
   TARGET_FILE = capital_indexes.exe
   TARGET_IMPLIB = libcapital_indexes.dll.a
-  TARGET_PDB = capital_indexes.pdb
+  TARGET_PDB = capital_indexes.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target middle_letter
@@ -85,13 +82,11 @@ build capital_indexes.exe: CXX_EXECUTABLE_LINKER__capital_indexes_Debug CMakeFil
 
 build cmake_object_order_depends_target_middle_letter: phony || CMakeFiles/middle_letter.dir
 
-build CMakeFiles/middle_letter.dir/Easy/MiddleLetter.cpp.obj: CXX_COMPILER__middle_letter_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/Easy/MiddleLetter.cpp || cmake_object_order_depends_target_middle_letter
-  DEP_FILE = CMakeFiles\middle_letter.dir\Easy\MiddleLetter.cpp.obj.d
+build CMakeFiles/middle_letter.dir/2-10/MiddleLetter.cpp.obj: CXX_COMPILER__middle_letter_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/2-10/MiddleLetter.cpp || cmake_object_order_depends_target_middle_letter
+  DEP_FILE = CMakeFiles\middle_letter.dir\2-10\MiddleLetter.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\middle_letter.dir
-  OBJECT_FILE_DIR = CMakeFiles\middle_letter.dir\Easy
-  TARGET_COMPILE_PDB = CMakeFiles\middle_letter.dir\
-  TARGET_PDB = middle_letter.pdb
+  OBJECT_FILE_DIR = CMakeFiles\middle_letter.dir\2-10
 
 
 # =============================================================================
@@ -101,16 +96,15 @@ build CMakeFiles/middle_letter.dir/Easy/MiddleLetter.cpp.obj: CXX_COMPILER__midd
 #############################################
 # Link the executable middle_letter.exe
 
-build middle_letter.exe: CXX_EXECUTABLE_LINKER__middle_letter_Debug CMakeFiles/middle_letter.dir/Easy/MiddleLetter.cpp.obj
+build middle_letter.exe: CXX_EXECUTABLE_LINKER__middle_letter_Debug CMakeFiles/middle_letter.dir/2-10/MiddleLetter.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\middle_letter.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\middle_letter.dir\
   TARGET_FILE = middle_letter.exe
   TARGET_IMPLIB = libmiddle_letter.dll.a
-  TARGET_PDB = middle_letter.pdb
+  TARGET_PDB = middle_letter.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target online_status
@@ -121,13 +115,11 @@ build middle_letter.exe: CXX_EXECUTABLE_LINKER__middle_letter_Debug CMakeFiles/m
 
 build cmake_object_order_depends_target_online_status: phony || CMakeFiles/online_status.dir
 
-build CMakeFiles/online_status.dir/Easy/OnlineStatus.cpp.obj: CXX_COMPILER__online_status_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/Easy/OnlineStatus.cpp || cmake_object_order_depends_target_online_status
-  DEP_FILE = CMakeFiles\online_status.dir\Easy\OnlineStatus.cpp.obj.d
+build CMakeFiles/online_status.dir/2-10/OnlineStatus.cpp.obj: CXX_COMPILER__online_status_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/2-10/OnlineStatus.cpp || cmake_object_order_depends_target_online_status
+  DEP_FILE = CMakeFiles\online_status.dir\2-10\OnlineStatus.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\online_status.dir
-  OBJECT_FILE_DIR = CMakeFiles\online_status.dir\Easy
-  TARGET_COMPILE_PDB = CMakeFiles\online_status.dir\
-  TARGET_PDB = online_status.pdb
+  OBJECT_FILE_DIR = CMakeFiles\online_status.dir\2-10
 
 
 # =============================================================================
@@ -137,16 +129,15 @@ build CMakeFiles/online_status.dir/Easy/OnlineStatus.cpp.obj: CXX_COMPILER__onli
 #############################################
 # Link the executable online_status.exe
 
-build online_status.exe: CXX_EXECUTABLE_LINKER__online_status_Debug CMakeFiles/online_status.dir/Easy/OnlineStatus.cpp.obj
+build online_status.exe: CXX_EXECUTABLE_LINKER__online_status_Debug CMakeFiles/online_status.dir/2-10/OnlineStatus.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\online_status.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\online_status.dir\
   TARGET_FILE = online_status.exe
   TARGET_IMPLIB = libonline_status.dll.a
-  TARGET_PDB = online_status.pdb
+  TARGET_PDB = online_status.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target randomness
@@ -157,13 +148,11 @@ build online_status.exe: CXX_EXECUTABLE_LINKER__online_status_Debug CMakeFiles/o
 
 build cmake_object_order_depends_target_randomness: phony || CMakeFiles/randomness.dir
 
-build CMakeFiles/randomness.dir/Easy/Randomness.cpp.obj: CXX_COMPILER__randomness_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/Easy/Randomness.cpp || cmake_object_order_depends_target_randomness
-  DEP_FILE = CMakeFiles\randomness.dir\Easy\Randomness.cpp.obj.d
+build CMakeFiles/randomness.dir/2-10/Randomness.cpp.obj: CXX_COMPILER__randomness_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/2-10/Randomness.cpp || cmake_object_order_depends_target_randomness
+  DEP_FILE = CMakeFiles\randomness.dir\2-10\Randomness.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\randomness.dir
-  OBJECT_FILE_DIR = CMakeFiles\randomness.dir\Easy
-  TARGET_COMPILE_PDB = CMakeFiles\randomness.dir\
-  TARGET_PDB = randomness.pdb
+  OBJECT_FILE_DIR = CMakeFiles\randomness.dir\2-10
 
 
 # =============================================================================
@@ -173,16 +162,15 @@ build CMakeFiles/randomness.dir/Easy/Randomness.cpp.obj: CXX_COMPILER__randomnes
 #############################################
 # Link the executable randomness.exe
 
-build randomness.exe: CXX_EXECUTABLE_LINKER__randomness_Debug CMakeFiles/randomness.dir/Easy/Randomness.cpp.obj
+build randomness.exe: CXX_EXECUTABLE_LINKER__randomness_Debug CMakeFiles/randomness.dir/2-10/Randomness.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\randomness.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\randomness.dir\
   TARGET_FILE = randomness.exe
   TARGET_IMPLIB = librandomness.dll.a
-  TARGET_PDB = randomness.pdb
+  TARGET_PDB = randomness.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target type_check
@@ -193,13 +181,11 @@ build randomness.exe: CXX_EXECUTABLE_LINKER__randomness_Debug CMakeFiles/randomn
 
 build cmake_object_order_depends_target_type_check: phony || CMakeFiles/type_check.dir
 
-build CMakeFiles/type_check.dir/Easy/TypeCheck.cpp.obj: CXX_COMPILER__type_check_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/Easy/TypeCheck.cpp || cmake_object_order_depends_target_type_check
-  DEP_FILE = CMakeFiles\type_check.dir\Easy\TypeCheck.cpp.obj.d
+build CMakeFiles/type_check.dir/2-10/TypeCheck.cpp.obj: CXX_COMPILER__type_check_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/2-10/TypeCheck.cpp || cmake_object_order_depends_target_type_check
+  DEP_FILE = CMakeFiles\type_check.dir\2-10\TypeCheck.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\type_check.dir
-  OBJECT_FILE_DIR = CMakeFiles\type_check.dir\Easy
-  TARGET_COMPILE_PDB = CMakeFiles\type_check.dir\
-  TARGET_PDB = type_check.pdb
+  OBJECT_FILE_DIR = CMakeFiles\type_check.dir\2-10
 
 
 # =============================================================================
@@ -209,16 +195,15 @@ build CMakeFiles/type_check.dir/Easy/TypeCheck.cpp.obj: CXX_COMPILER__type_check
 #############################################
 # Link the executable type_check.exe
 
-build type_check.exe: CXX_EXECUTABLE_LINKER__type_check_Debug CMakeFiles/type_check.dir/Easy/TypeCheck.cpp.obj
+build type_check.exe: CXX_EXECUTABLE_LINKER__type_check_Debug CMakeFiles/type_check.dir/2-10/TypeCheck.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\type_check.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\type_check.dir\
   TARGET_FILE = type_check.exe
   TARGET_IMPLIB = libtype_check.dll.a
-  TARGET_PDB = type_check.pdb
+  TARGET_PDB = type_check.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target double_letters
@@ -229,13 +214,11 @@ build type_check.exe: CXX_EXECUTABLE_LINKER__type_check_Debug CMakeFiles/type_ch
 
 build cmake_object_order_depends_target_double_letters: phony || CMakeFiles/double_letters.dir
 
-build CMakeFiles/double_letters.dir/Medium/DoubleLetters.cpp.obj: CXX_COMPILER__double_letters_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/Medium/DoubleLetters.cpp || cmake_object_order_depends_target_double_letters
-  DEP_FILE = CMakeFiles\double_letters.dir\Medium\DoubleLetters.cpp.obj.d
+build CMakeFiles/double_letters.dir/3-10/DoubleLetters.cpp.obj: CXX_COMPILER__double_letters_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/3-10/DoubleLetters.cpp || cmake_object_order_depends_target_double_letters
+  DEP_FILE = CMakeFiles\double_letters.dir\3-10\DoubleLetters.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\double_letters.dir
-  OBJECT_FILE_DIR = CMakeFiles\double_letters.dir\Medium
-  TARGET_COMPILE_PDB = CMakeFiles\double_letters.dir\
-  TARGET_PDB = double_letters.pdb
+  OBJECT_FILE_DIR = CMakeFiles\double_letters.dir\3-10
 
 
 # =============================================================================
@@ -245,16 +228,15 @@ build CMakeFiles/double_letters.dir/Medium/DoubleLetters.cpp.obj: CXX_COMPILER__
 #############################################
 # Link the executable double_letters.exe
 
-build double_letters.exe: CXX_EXECUTABLE_LINKER__double_letters_Debug CMakeFiles/double_letters.dir/Medium/DoubleLetters.cpp.obj
+build double_letters.exe: CXX_EXECUTABLE_LINKER__double_letters_Debug CMakeFiles/double_letters.dir/3-10/DoubleLetters.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\double_letters.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\double_letters.dir\
   TARGET_FILE = double_letters.exe
   TARGET_IMPLIB = libdouble_letters.dll.a
-  TARGET_PDB = double_letters.pdb
+  TARGET_PDB = double_letters.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target adding_removing_dots
@@ -265,13 +247,11 @@ build double_letters.exe: CXX_EXECUTABLE_LINKER__double_letters_Debug CMakeFiles
 
 build cmake_object_order_depends_target_adding_removing_dots: phony || CMakeFiles/adding_removing_dots.dir
 
-build CMakeFiles/adding_removing_dots.dir/Medium/AddingRemovingDots.cpp.obj: CXX_COMPILER__adding_removing_dots_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/Medium/AddingRemovingDots.cpp || cmake_object_order_depends_target_adding_removing_dots
-  DEP_FILE = CMakeFiles\adding_removing_dots.dir\Medium\AddingRemovingDots.cpp.obj.d
+build CMakeFiles/adding_removing_dots.dir/3-10/AddingRemovingDots.cpp.obj: CXX_COMPILER__adding_removing_dots_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/3-10/AddingRemovingDots.cpp || cmake_object_order_depends_target_adding_removing_dots
+  DEP_FILE = CMakeFiles\adding_removing_dots.dir\3-10\AddingRemovingDots.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\adding_removing_dots.dir
-  OBJECT_FILE_DIR = CMakeFiles\adding_removing_dots.dir\Medium
-  TARGET_COMPILE_PDB = CMakeFiles\adding_removing_dots.dir\
-  TARGET_PDB = adding_removing_dots.pdb
+  OBJECT_FILE_DIR = CMakeFiles\adding_removing_dots.dir\3-10
 
 
 # =============================================================================
@@ -281,16 +261,15 @@ build CMakeFiles/adding_removing_dots.dir/Medium/AddingRemovingDots.cpp.obj: CXX
 #############################################
 # Link the executable adding_removing_dots.exe
 
-build adding_removing_dots.exe: CXX_EXECUTABLE_LINKER__adding_removing_dots_Debug CMakeFiles/adding_removing_dots.dir/Medium/AddingRemovingDots.cpp.obj
+build adding_removing_dots.exe: CXX_EXECUTABLE_LINKER__adding_removing_dots_Debug CMakeFiles/adding_removing_dots.dir/3-10/AddingRemovingDots.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\adding_removing_dots.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\adding_removing_dots.dir\
   TARGET_FILE = adding_removing_dots.exe
   TARGET_IMPLIB = libadding_removing_dots.dll.a
-  TARGET_PDB = adding_removing_dots.pdb
+  TARGET_PDB = adding_removing_dots.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target counting_syllables
@@ -301,13 +280,11 @@ build adding_removing_dots.exe: CXX_EXECUTABLE_LINKER__adding_removing_dots_Debu
 
 build cmake_object_order_depends_target_counting_syllables: phony || CMakeFiles/counting_syllables.dir
 
-build CMakeFiles/counting_syllables.dir/Medium/CountingSyllables.cpp.obj: CXX_COMPILER__counting_syllables_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/Medium/CountingSyllables.cpp || cmake_object_order_depends_target_counting_syllables
-  DEP_FILE = CMakeFiles\counting_syllables.dir\Medium\CountingSyllables.cpp.obj.d
+build CMakeFiles/counting_syllables.dir/3-10/CountingSyllables.cpp.obj: CXX_COMPILER__counting_syllables_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/3-10/CountingSyllables.cpp || cmake_object_order_depends_target_counting_syllables
+  DEP_FILE = CMakeFiles\counting_syllables.dir\3-10\CountingSyllables.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\counting_syllables.dir
-  OBJECT_FILE_DIR = CMakeFiles\counting_syllables.dir\Medium
-  TARGET_COMPILE_PDB = CMakeFiles\counting_syllables.dir\
-  TARGET_PDB = counting_syllables.pdb
+  OBJECT_FILE_DIR = CMakeFiles\counting_syllables.dir\3-10
 
 
 # =============================================================================
@@ -317,16 +294,15 @@ build CMakeFiles/counting_syllables.dir/Medium/CountingSyllables.cpp.obj: CXX_CO
 #############################################
 # Link the executable counting_syllables.exe
 
-build counting_syllables.exe: CXX_EXECUTABLE_LINKER__counting_syllables_Debug CMakeFiles/counting_syllables.dir/Medium/CountingSyllables.cpp.obj
+build counting_syllables.exe: CXX_EXECUTABLE_LINKER__counting_syllables_Debug CMakeFiles/counting_syllables.dir/3-10/CountingSyllables.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\counting_syllables.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\counting_syllables.dir\
   TARGET_FILE = counting_syllables.exe
   TARGET_IMPLIB = libcounting_syllables.dll.a
-  TARGET_PDB = counting_syllables.pdb
+  TARGET_PDB = counting_syllables.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target anagrams
@@ -337,13 +313,11 @@ build counting_syllables.exe: CXX_EXECUTABLE_LINKER__counting_syllables_Debug CM
 
 build cmake_object_order_depends_target_anagrams: phony || CMakeFiles/anagrams.dir
 
-build CMakeFiles/anagrams.dir/Medium/Anagrams.cpp.obj: CXX_COMPILER__anagrams_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/Medium/Anagrams.cpp || cmake_object_order_depends_target_anagrams
-  DEP_FILE = CMakeFiles\anagrams.dir\Medium\Anagrams.cpp.obj.d
+build CMakeFiles/anagrams.dir/3-10/Anagrams.cpp.obj: CXX_COMPILER__anagrams_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/3-10/Anagrams.cpp || cmake_object_order_depends_target_anagrams
+  DEP_FILE = CMakeFiles\anagrams.dir\3-10\Anagrams.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\anagrams.dir
-  OBJECT_FILE_DIR = CMakeFiles\anagrams.dir\Medium
-  TARGET_COMPILE_PDB = CMakeFiles\anagrams.dir\
-  TARGET_PDB = anagrams.pdb
+  OBJECT_FILE_DIR = CMakeFiles\anagrams.dir\3-10
 
 
 # =============================================================================
@@ -353,16 +327,15 @@ build CMakeFiles/anagrams.dir/Medium/Anagrams.cpp.obj: CXX_COMPILER__anagrams_De
 #############################################
 # Link the executable anagrams.exe
 
-build anagrams.exe: CXX_EXECUTABLE_LINKER__anagrams_Debug CMakeFiles/anagrams.dir/Medium/Anagrams.cpp.obj
+build anagrams.exe: CXX_EXECUTABLE_LINKER__anagrams_Debug CMakeFiles/anagrams.dir/3-10/Anagrams.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\anagrams.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\anagrams.dir\
   TARGET_FILE = anagrams.exe
   TARGET_IMPLIB = libanagrams.dll.a
-  TARGET_PDB = anagrams.pdb
+  TARGET_PDB = anagrams.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target flatten_a_list
@@ -373,13 +346,11 @@ build anagrams.exe: CXX_EXECUTABLE_LINKER__anagrams_Debug CMakeFiles/anagrams.di
 
 build cmake_object_order_depends_target_flatten_a_list: phony || CMakeFiles/flatten_a_list.dir
 
-build CMakeFiles/flatten_a_list.dir/Medium/FlattenAList.cpp.obj: CXX_COMPILER__flatten_a_list_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/Medium/FlattenAList.cpp || cmake_object_order_depends_target_flatten_a_list
-  DEP_FILE = CMakeFiles\flatten_a_list.dir\Medium\FlattenAList.cpp.obj.d
+build CMakeFiles/flatten_a_list.dir/3-10/FlattenAList.cpp.obj: CXX_COMPILER__flatten_a_list_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/3-10/FlattenAList.cpp || cmake_object_order_depends_target_flatten_a_list
+  DEP_FILE = CMakeFiles\flatten_a_list.dir\3-10\FlattenAList.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\flatten_a_list.dir
-  OBJECT_FILE_DIR = CMakeFiles\flatten_a_list.dir\Medium
-  TARGET_COMPILE_PDB = CMakeFiles\flatten_a_list.dir\
-  TARGET_PDB = flatten_a_list.pdb
+  OBJECT_FILE_DIR = CMakeFiles\flatten_a_list.dir\3-10
 
 
 # =============================================================================
@@ -389,16 +360,15 @@ build CMakeFiles/flatten_a_list.dir/Medium/FlattenAList.cpp.obj: CXX_COMPILER__f
 #############################################
 # Link the executable flatten_a_list.exe
 
-build flatten_a_list.exe: CXX_EXECUTABLE_LINKER__flatten_a_list_Debug CMakeFiles/flatten_a_list.dir/Medium/FlattenAList.cpp.obj
+build flatten_a_list.exe: CXX_EXECUTABLE_LINKER__flatten_a_list_Debug CMakeFiles/flatten_a_list.dir/3-10/FlattenAList.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\flatten_a_list.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\flatten_a_list.dir\
   TARGET_FILE = flatten_a_list.exe
   TARGET_IMPLIB = libflatten_a_list.dll.a
-  TARGET_PDB = flatten_a_list.pdb
+  TARGET_PDB = flatten_a_list.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target min_maxing
@@ -409,13 +379,11 @@ build flatten_a_list.exe: CXX_EXECUTABLE_LINKER__flatten_a_list_Debug CMakeFiles
 
 build cmake_object_order_depends_target_min_maxing: phony || CMakeFiles/min_maxing.dir
 
-build CMakeFiles/min_maxing.dir/Medium/MinMaxing.cpp.obj: CXX_COMPILER__min_maxing_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/Medium/MinMaxing.cpp || cmake_object_order_depends_target_min_maxing
-  DEP_FILE = CMakeFiles\min_maxing.dir\Medium\MinMaxing.cpp.obj.d
+build CMakeFiles/min_maxing.dir/3-10/MinMaxing.cpp.obj: CXX_COMPILER__min_maxing_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/3-10/MinMaxing.cpp || cmake_object_order_depends_target_min_maxing
+  DEP_FILE = CMakeFiles\min_maxing.dir\3-10\MinMaxing.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\min_maxing.dir
-  OBJECT_FILE_DIR = CMakeFiles\min_maxing.dir\Medium
-  TARGET_COMPILE_PDB = CMakeFiles\min_maxing.dir\
-  TARGET_PDB = min_maxing.pdb
+  OBJECT_FILE_DIR = CMakeFiles\min_maxing.dir\3-10
 
 
 # =============================================================================
@@ -425,16 +393,15 @@ build CMakeFiles/min_maxing.dir/Medium/MinMaxing.cpp.obj: CXX_COMPILER__min_maxi
 #############################################
 # Link the executable min_maxing.exe
 
-build min_maxing.exe: CXX_EXECUTABLE_LINKER__min_maxing_Debug CMakeFiles/min_maxing.dir/Medium/MinMaxing.cpp.obj
+build min_maxing.exe: CXX_EXECUTABLE_LINKER__min_maxing_Debug CMakeFiles/min_maxing.dir/3-10/MinMaxing.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\min_maxing.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\min_maxing.dir\
   TARGET_FILE = min_maxing.exe
   TARGET_IMPLIB = libmin_maxing.dll.a
-  TARGET_PDB = min_maxing.pdb
+  TARGET_PDB = min_maxing.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target divisible_by_3
@@ -445,13 +412,11 @@ build min_maxing.exe: CXX_EXECUTABLE_LINKER__min_maxing_Debug CMakeFiles/min_max
 
 build cmake_object_order_depends_target_divisible_by_3: phony || CMakeFiles/divisible_by_3.dir
 
-build CMakeFiles/divisible_by_3.dir/Medium/DivisibleBy3.cpp.obj: CXX_COMPILER__divisible_by_3_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/Medium/DivisibleBy3.cpp || cmake_object_order_depends_target_divisible_by_3
-  DEP_FILE = CMakeFiles\divisible_by_3.dir\Medium\DivisibleBy3.cpp.obj.d
+build CMakeFiles/divisible_by_3.dir/3-10/DivisibleBy3.cpp.obj: CXX_COMPILER__divisible_by_3_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/3-10/DivisibleBy3.cpp || cmake_object_order_depends_target_divisible_by_3
+  DEP_FILE = CMakeFiles\divisible_by_3.dir\3-10\DivisibleBy3.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\divisible_by_3.dir
-  OBJECT_FILE_DIR = CMakeFiles\divisible_by_3.dir\Medium
-  TARGET_COMPILE_PDB = CMakeFiles\divisible_by_3.dir\
-  TARGET_PDB = divisible_by_3.pdb
+  OBJECT_FILE_DIR = CMakeFiles\divisible_by_3.dir\3-10
 
 
 # =============================================================================
@@ -461,16 +426,180 @@ build CMakeFiles/divisible_by_3.dir/Medium/DivisibleBy3.cpp.obj: CXX_COMPILER__d
 #############################################
 # Link the executable divisible_by_3.exe
 
-build divisible_by_3.exe: CXX_EXECUTABLE_LINKER__divisible_by_3_Debug CMakeFiles/divisible_by_3.dir/Medium/DivisibleBy3.cpp.obj
+build divisible_by_3.exe: CXX_EXECUTABLE_LINKER__divisible_by_3_Debug CMakeFiles/divisible_by_3.dir/3-10/DivisibleBy3.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\divisible_by_3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\divisible_by_3.dir\
   TARGET_FILE = divisible_by_3.exe
   TARGET_IMPLIB = libdivisible_by_3.dll.a
-  TARGET_PDB = divisible_by_3.pdb
+  TARGET_PDB = divisible_by_3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target tictactoe_input
+
+
+#############################################
+# Order-only phony target for tictactoe_input
+
+build cmake_object_order_depends_target_tictactoe_input: phony || CMakeFiles/tictactoe_input.dir
+
+build CMakeFiles/tictactoe_input.dir/4-10/TicTacToeInput.cpp.obj: CXX_COMPILER__tictactoe_input_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/4-10/TicTacToeInput.cpp || cmake_object_order_depends_target_tictactoe_input
+  DEP_FILE = CMakeFiles\tictactoe_input.dir\4-10\TicTacToeInput.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\tictactoe_input.dir
+  OBJECT_FILE_DIR = CMakeFiles\tictactoe_input.dir\4-10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target tictactoe_input
+
+
+#############################################
+# Link the executable tictactoe_input.exe
+
+build tictactoe_input.exe: CXX_EXECUTABLE_LINKER__tictactoe_input_Debug CMakeFiles/tictactoe_input.dir/4-10/TicTacToeInput.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\tictactoe_input.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = tictactoe_input.exe
+  TARGET_IMPLIB = libtictactoe_input.dll.a
+  TARGET_PDB = tictactoe_input.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target palindrome
+
+
+#############################################
+# Order-only phony target for palindrome
+
+build cmake_object_order_depends_target_palindrome: phony || CMakeFiles/palindrome.dir
+
+build CMakeFiles/palindrome.dir/4-10/Palindrome.cpp.obj: CXX_COMPILER__palindrome_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/4-10/Palindrome.cpp || cmake_object_order_depends_target_palindrome
+  DEP_FILE = CMakeFiles\palindrome.dir\4-10\Palindrome.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\palindrome.dir
+  OBJECT_FILE_DIR = CMakeFiles\palindrome.dir\4-10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target palindrome
+
+
+#############################################
+# Link the executable palindrome.exe
+
+build palindrome.exe: CXX_EXECUTABLE_LINKER__palindrome_Debug CMakeFiles/palindrome.dir/4-10/Palindrome.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\palindrome.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = palindrome.exe
+  TARGET_IMPLIB = libpalindrome.dll.a
+  TARGET_PDB = palindrome.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target up_and_down
+
+
+#############################################
+# Order-only phony target for up_and_down
+
+build cmake_object_order_depends_target_up_and_down: phony || CMakeFiles/up_and_down.dir
+
+build CMakeFiles/up_and_down.dir/4-10/UpAndDown.cpp.obj: CXX_COMPILER__up_and_down_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/4-10/UpAndDown.cpp || cmake_object_order_depends_target_up_and_down
+  DEP_FILE = CMakeFiles\up_and_down.dir\4-10\UpAndDown.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\up_and_down.dir
+  OBJECT_FILE_DIR = CMakeFiles\up_and_down.dir\4-10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target up_and_down
+
+
+#############################################
+# Link the executable up_and_down.exe
+
+build up_and_down.exe: CXX_EXECUTABLE_LINKER__up_and_down_Debug CMakeFiles/up_and_down.dir/4-10/UpAndDown.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\up_and_down.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = up_and_down.exe
+  TARGET_IMPLIB = libup_and_down.dll.a
+  TARGET_PDB = up_and_down.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target consecutive_zeros
+
+
+#############################################
+# Order-only phony target for consecutive_zeros
+
+build cmake_object_order_depends_target_consecutive_zeros: phony || CMakeFiles/consecutive_zeros.dir
+
+build CMakeFiles/consecutive_zeros.dir/4-10/ConsecutiveZeros.cpp.obj: CXX_COMPILER__consecutive_zeros_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/4-10/ConsecutiveZeros.cpp || cmake_object_order_depends_target_consecutive_zeros
+  DEP_FILE = CMakeFiles\consecutive_zeros.dir\4-10\ConsecutiveZeros.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\consecutive_zeros.dir
+  OBJECT_FILE_DIR = CMakeFiles\consecutive_zeros.dir\4-10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target consecutive_zeros
+
+
+#############################################
+# Link the executable consecutive_zeros.exe
+
+build consecutive_zeros.exe: CXX_EXECUTABLE_LINKER__consecutive_zeros_Debug CMakeFiles/consecutive_zeros.dir/4-10/ConsecutiveZeros.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\consecutive_zeros.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = consecutive_zeros.exe
+  TARGET_IMPLIB = libconsecutive_zeros.dll.a
+  TARGET_PDB = consecutive_zeros.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target all_equal
+
+
+#############################################
+# Order-only phony target for all_equal
+
+build cmake_object_order_depends_target_all_equal: phony || CMakeFiles/all_equal.dir
+
+build CMakeFiles/all_equal.dir/4-10/AllEqual.cpp.obj: CXX_COMPILER__all_equal_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/4-10/AllEqual.cpp || cmake_object_order_depends_target_all_equal
+  DEP_FILE = CMakeFiles\all_equal.dir\4-10\AllEqual.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\all_equal.dir
+  OBJECT_FILE_DIR = CMakeFiles\all_equal.dir\4-10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target all_equal
+
+
+#############################################
+# Link the executable all_equal.exe
+
+build all_equal.exe: CXX_EXECUTABLE_LINKER__all_equal_Debug CMakeFiles/all_equal.dir/4-10/AllEqual.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\all_equal.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = all_equal.exe
+  TARGET_IMPLIB = liball_equal.dll.a
+  TARGET_PDB = all_equal.exe.dbg
 
 
 #############################################
@@ -500,9 +629,13 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build adding_removing_dots: phony adding_removing_dots.exe
 
+build all_equal: phony all_equal.exe
+
 build anagrams: phony anagrams.exe
 
 build capital_indexes: phony capital_indexes.exe
+
+build consecutive_zeros: phony consecutive_zeros.exe
 
 build counting_syllables: phony counting_syllables.exe
 
@@ -518,9 +651,15 @@ build min_maxing: phony min_maxing.exe
 
 build online_status: phony online_status.exe
 
+build palindrome: phony palindrome.exe
+
 build randomness: phony randomness.exe
 
+build tictactoe_input: phony tictactoe_input.exe
+
 build type_check: phony type_check.exe
+
+build up_and_down: phony up_and_down.exe
 
 # =============================================================================
 # Folder targets.
@@ -530,7 +669,7 @@ build type_check: phony type_check.exe
 #############################################
 # Folder: C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug
 
-build all: phony capital_indexes.exe middle_letter.exe online_status.exe randomness.exe type_check.exe double_letters.exe adding_removing_dots.exe counting_syllables.exe anagrams.exe flatten_a_list.exe min_maxing.exe divisible_by_3.exe
+build all: phony capital_indexes.exe middle_letter.exe online_status.exe randomness.exe type_check.exe double_letters.exe adding_removing_dots.exe counting_syllables.exe anagrams.exe flatten_a_list.exe min_maxing.exe divisible_by_3.exe tictactoe_input.exe palindrome.exe up_and_down.exe consecutive_zeros.exe all_equal.exe
 
 # =============================================================================
 # Built-in targets
@@ -539,14 +678,14 @@ build all: phony capital_indexes.exe middle_letter.exe online_status.exe randomn
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCCompiler.cmake.in C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCXXCompiler.cmake.in C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCXXInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCompilerIdDetection.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompileFeatures.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompilerId.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineRCCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineSystem.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeFindBinUtils.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeGenericSystem.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeRCCompiler.cmake.in C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeRCInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystem.cmake.in C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestCCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestCXXCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestCompilerCommon.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestRCCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-C.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-CXX.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Internal/FeatureTesting.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-Determine-CXX.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-windres.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/CMakeLists.txt CMakeCache.txt CMakeFiles/3.25.2/CMakeCCompiler.cmake CMakeFiles/3.25.2/CMakeCXXCompiler.cmake CMakeFiles/3.25.2/CMakeRCCompiler.cmake CMakeFiles/3.25.2/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCXXInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeGenericSystem.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeRCInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-C.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-CXX.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-windres.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/CMakeLists.txt CMakeCache.txt CMakeFiles/3.25.2/CMakeCCompiler.cmake CMakeFiles/3.25.2/CMakeCXXCompiler.cmake CMakeFiles/3.25.2/CMakeRCCompiler.cmake CMakeFiles/3.25.2/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCCompiler.cmake.in C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCXXCompiler.cmake.in C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCXXInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCompilerIdDetection.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompileFeatures.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompilerId.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineRCCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineSystem.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeFindBinUtils.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeGenericSystem.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeRCCompiler.cmake.in C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeRCInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystem.cmake.in C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestCCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestCXXCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestCompilerCommon.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestRCCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-C.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-CXX.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Internal/FeatureTesting.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-Determine-CXX.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-windres.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/CMakeLists.txt CMakeCache.txt CMakeFiles/3.25.2/CMakeCCompiler.cmake CMakeFiles/3.25.2/CMakeCXXCompiler.cmake CMakeFiles/3.25.2/CMakeRCCompiler.cmake CMakeFiles/3.25.2/CMakeSystem.cmake: phony
+build C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCXXInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeGenericSystem.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeRCInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-C.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-CXX.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-windres.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows.cmake C$:/Users/Tibor/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/CMakeLists.txt CMakeCache.txt CMakeFiles/3.25.2/CMakeCCompiler.cmake CMakeFiles/3.25.2/CMakeCXXCompiler.cmake CMakeFiles/3.25.2/CMakeRCCompiler.cmake CMakeFiles/3.25.2/CMakeSystem.cmake: phony
 
 
 #############################################

@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "middle_letter.exe"
+			"path" : "flatten_a_list.exe"
 		},
 		{
-			"path" : "middle_letter.pdb"
+			"path" : "flatten_a_list.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 7,
+				"line" : 16,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "middle_letter::@6890427a1f51a3e7e1df",
+	"id" : "flatten_a_list::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "middle_letter",
-	"nameOnDisk" : "middle_letter.exe",
+	"name" : "flatten_a_list",
+	"nameOnDisk" : "flatten_a_list.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Easy/MiddleLetter.cpp",
+			"path" : "3-10/FlattenAList.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

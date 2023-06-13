@@ -10,5 +10,10 @@ C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-bui
 C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/flatten_a_list.dir
 C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/min_maxing.dir
 C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/divisible_by_3.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/tictactoe_input.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/palindrome.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/up_and_down.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/consecutive_zeros.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/all_equal.dir
 C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
