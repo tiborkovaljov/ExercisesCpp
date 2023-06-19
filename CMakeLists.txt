@@ -22,3 +22,6 @@ add_executable(palindrome 4-10/Palindrome.cpp)
 add_executable(up_and_down 4-10/UpAndDown.cpp)
 add_executable(consecutive_zeros 4-10/ConsecutiveZeros.cpp)
 add_executable(all_equal 4-10/AllEqual.cpp)
+
+add_executable(convert 5-10/Convert.cpp)
+add_executable(custom_zip 5-10/CustomZip.cpp)

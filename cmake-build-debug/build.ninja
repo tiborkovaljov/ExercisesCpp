@@ -601,6 +601,72 @@ build all_equal.exe: CXX_EXECUTABLE_LINKER__all_equal_Debug CMakeFiles/all_equal
   TARGET_IMPLIB = liball_equal.dll.a
   TARGET_PDB = all_equal.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target convert
+
+
+#############################################
+# Order-only phony target for convert
+
+build cmake_object_order_depends_target_convert: phony || CMakeFiles/convert.dir
+
+build CMakeFiles/convert.dir/5-10/Convert.cpp.obj: CXX_COMPILER__convert_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/5-10/Convert.cpp || cmake_object_order_depends_target_convert
+  DEP_FILE = CMakeFiles\convert.dir\5-10\Convert.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\convert.dir
+  OBJECT_FILE_DIR = CMakeFiles\convert.dir\5-10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target convert
+
+
+#############################################
+# Link the executable convert.exe
+
+build convert.exe: CXX_EXECUTABLE_LINKER__convert_Debug CMakeFiles/convert.dir/5-10/Convert.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\convert.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = convert.exe
+  TARGET_IMPLIB = libconvert.dll.a
+  TARGET_PDB = convert.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target custom_zip
+
+
+#############################################
+# Order-only phony target for custom_zip
+
+build cmake_object_order_depends_target_custom_zip: phony || CMakeFiles/custom_zip.dir
+
+build CMakeFiles/custom_zip.dir/5-10/CustomZip.cpp.obj: CXX_COMPILER__custom_zip_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/5-10/CustomZip.cpp || cmake_object_order_depends_target_custom_zip
+  DEP_FILE = CMakeFiles\custom_zip.dir\5-10\CustomZip.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\custom_zip.dir
+  OBJECT_FILE_DIR = CMakeFiles\custom_zip.dir\5-10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target custom_zip
+
+
+#############################################
+# Link the executable custom_zip.exe
+
+build custom_zip.exe: CXX_EXECUTABLE_LINKER__custom_zip_Debug CMakeFiles/custom_zip.dir/5-10/CustomZip.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\custom_zip.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = custom_zip.exe
+  TARGET_IMPLIB = libcustom_zip.dll.a
+  TARGET_PDB = custom_zip.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -637,7 +703,11 @@ build capital_indexes: phony capital_indexes.exe
 
 build consecutive_zeros: phony consecutive_zeros.exe
 
+build convert: phony convert.exe
+
 build counting_syllables: phony counting_syllables.exe
+
+build custom_zip: phony custom_zip.exe
 
 build divisible_by_3: phony divisible_by_3.exe
 
@@ -669,7 +739,7 @@ build up_and_down: phony up_and_down.exe
 #############################################
 # Folder: C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug
 
-build all: phony capital_indexes.exe middle_letter.exe online_status.exe randomness.exe type_check.exe double_letters.exe adding_removing_dots.exe counting_syllables.exe anagrams.exe flatten_a_list.exe min_maxing.exe divisible_by_3.exe tictactoe_input.exe palindrome.exe up_and_down.exe consecutive_zeros.exe all_equal.exe
+build all: phony capital_indexes.exe middle_letter.exe online_status.exe randomness.exe type_check.exe double_letters.exe adding_removing_dots.exe counting_syllables.exe anagrams.exe flatten_a_list.exe min_maxing.exe divisible_by_3.exe tictactoe_input.exe palindrome.exe up_and_down.exe consecutive_zeros.exe all_equal.exe convert.exe custom_zip.exe
 
 # =============================================================================
 # Built-in targets
