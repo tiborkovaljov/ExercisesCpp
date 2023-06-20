@@ -667,6 +667,39 @@ build custom_zip.exe: CXX_EXECUTABLE_LINKER__custom_zip_Debug CMakeFiles/custom_
   TARGET_IMPLIB = libcustom_zip.dll.a
   TARGET_PDB = custom_zip.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target thousands
+
+
+#############################################
+# Order-only phony target for thousands
+
+build cmake_object_order_depends_target_thousands: phony || CMakeFiles/thousands.dir
+
+build CMakeFiles/thousands.dir/5-10/ThousandsSeparator.cpp.obj: CXX_COMPILER__thousands_Debug C$:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/5-10/ThousandsSeparator.cpp || cmake_object_order_depends_target_thousands
+  DEP_FILE = CMakeFiles\thousands.dir\5-10\ThousandsSeparator.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\thousands.dir
+  OBJECT_FILE_DIR = CMakeFiles\thousands.dir\5-10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target thousands
+
+
+#############################################
+# Link the executable thousands.exe
+
+build thousands.exe: CXX_EXECUTABLE_LINKER__thousands_Debug CMakeFiles/thousands.dir/5-10/ThousandsSeparator.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\thousands.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = thousands.exe
+  TARGET_IMPLIB = libthousands.dll.a
+  TARGET_PDB = thousands.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -725,6 +758,8 @@ build palindrome: phony palindrome.exe
 
 build randomness: phony randomness.exe
 
+build thousands: phony thousands.exe
+
 build tictactoe_input: phony tictactoe_input.exe
 
 build type_check: phony type_check.exe
@@ -739,7 +774,7 @@ build up_and_down: phony up_and_down.exe
 #############################################
 # Folder: C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug
 
-build all: phony capital_indexes.exe middle_letter.exe online_status.exe randomness.exe type_check.exe double_letters.exe adding_removing_dots.exe counting_syllables.exe anagrams.exe flatten_a_list.exe min_maxing.exe divisible_by_3.exe tictactoe_input.exe palindrome.exe up_and_down.exe consecutive_zeros.exe all_equal.exe convert.exe custom_zip.exe
+build all: phony capital_indexes.exe middle_letter.exe online_status.exe randomness.exe type_check.exe double_letters.exe adding_removing_dots.exe counting_syllables.exe anagrams.exe flatten_a_list.exe min_maxing.exe divisible_by_3.exe tictactoe_input.exe palindrome.exe up_and_down.exe consecutive_zeros.exe all_equal.exe convert.exe custom_zip.exe thousands.exe
 
 # =============================================================================
 # Built-in targets

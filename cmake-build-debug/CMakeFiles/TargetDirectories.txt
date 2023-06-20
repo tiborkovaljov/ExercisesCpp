@@ -17,5 +17,6 @@ C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-bui
 C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/all_equal.dir
 C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/convert.dir
 C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/custom_zip.dir
+C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/thousands.dir
 C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Tibor/Desktop/drawer/programming/cpp/exercises/cpp_principles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

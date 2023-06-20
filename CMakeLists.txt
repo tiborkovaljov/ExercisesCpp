@@ -25,3 +25,4 @@ add_executable(all_equal 4-10/AllEqual.cpp)
 
 add_executable(convert 5-10/Convert.cpp)
 add_executable(custom_zip 5-10/CustomZip.cpp)
+add_executable(thousands 5-10/ThousandsSeparator.cpp)

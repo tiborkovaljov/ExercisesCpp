@@ -33,7 +33,8 @@
 						15,
 						16,
 						17,
-						18
+						18,
+						19
 					]
 				}
 			],
@@ -66,7 +67,8 @@
 						15,
 						16,
 						17,
-						18
+						18,
+						19
 					]
 				}
 			],
@@ -182,6 +184,13 @@
 					"id" : "randomness::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-randomness-Debug-42629828478fac8e8efc.json",
 					"name" : "randomness",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "thousands::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-thousands-Debug-f9ab9a4797cf7dd10059.json",
+					"name" : "thousands",
 					"projectIndex" : 0
 				},
 				{
